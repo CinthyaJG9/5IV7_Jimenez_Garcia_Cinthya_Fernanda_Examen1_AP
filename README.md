@@ -1,4 +1,4 @@
-Profe, no supe cómo mostrar la imagen :CCC sólo quedó la url
+#Profe, no supe cómo mostrar la imagen :CCC sólo quedó la url
 
 
 
